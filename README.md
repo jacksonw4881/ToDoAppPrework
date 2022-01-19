@@ -36,7 +36,7 @@ I had to download a DLL file because the emulator kept crashing.
 
 ## License
 
-    Copyright 2022 Jackson
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
